@@ -9,10 +9,10 @@
 /* styles-3.css */
 /* ======= Base ======= */
 
-@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 
 body {
-  font-family: 'Nanum Pen Script', sans-serif;
+  font-family: 'Jeju Gothic', sans-serif;
   /*font-family: 'Roboto', sans-serif;*/
   color: #545E6C;
   background: #f5f5f5;
